@@ -1,0 +1,38 @@
+#maindiv{
+    width: 80%;
+    height: 50%;
+    margin-left: 30%;
+}
+h1{
+    
+    font-size: 70px;
+    margin-left: 15%;
+    font-weight: bolder;
+    text-shadow: 1em;
+}
+#one{
+    height: 300px;
+    width: 600px;
+    margin-top: 3%;
+    font-size: 1.4em;
+    border-radius: 5%;
+    padding: 2%;
+}
+button{
+    border-radius: 10%;
+    height: 30px;
+    width: 100px;
+    margin-left: 140px;
+    margin-top: 50px;
+    background-color:#f6f631;
+}
+
+body{
+    /* background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12); */
+    background-image: url(https://png.pngtree.com/background/20220724/original/pngtree-purple-torn-paper-notepad-memphis-background-picture-image_1738962.jpg);
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+    /* background-size: cover; */
+    background-size: cover;
+    font-family: 'Roboto';
+}
